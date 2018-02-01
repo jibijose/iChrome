@@ -1,0 +1,1 @@
+chrome.exe --profile-directory="Profile" --remote-debugging-port=9222
